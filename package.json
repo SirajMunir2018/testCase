@@ -1,0 +1,23 @@
+{
+  "name": "hello-world",
+  "version": "1.0.0",
+  "description": "system.out.println(\"Hi\");",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LiveDetermined/hello-world.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/LiveDetermined/hello-world/issues"
+  },
+  "homepage": "https://github.com/LiveDetermined/hello-world#readme",
+  "devDependencies": {
+    "jest": "^29.6.4"
+  }
+}
